@@ -1,0 +1,2 @@
+UPDATE `sed_auth` SET `auth_rights` = '3',
+`auth_rights_lock` = '128' WHERE `auth_id` =6 LIMIT 1 ;
